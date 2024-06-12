@@ -1,0 +1,7 @@
+﻿  Hook.cpp
+  Hooker.cpp
+  Generating code
+  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PacketHook.vcxproj -> D:\Projects\C++\PacketHook\Release\PacketHook.dll
+  PacketHook.vcxproj -> D:\Projects\C++\PacketHook\Release\PacketHook.pdb (Full PDB)
